@@ -1,0 +1,52 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif ;
+}
+
+header{
+    background-color: #648769;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+h1{
+    color: white;
+    font-size: 70px;
+}
+
+h3{
+    font-size: 34px;
+    color: #2A5B31;
+    display: flex;
+    padding-left: 100px;
+    padding-top: 70px;
+}
+
+.livros{
+    width:370px;
+    height: 260px;  
+}
+
+.pacote{
+    display: flex;
+    justify-content:center ;
+    justify-items: center;
+    align-items: center ;
+}
+
+.bloco{
+    width: 150px;
+    height: 150px;
+}
+
+.livro{
+    width: 150px;
+    height: 150px;
+}
+
+.caixa{
+    width: 150px;
+    height: 150px;
+}
