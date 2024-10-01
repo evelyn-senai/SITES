@@ -16,5 +16,40 @@ p{
     
 }
 .aviao{
-    width: auto;
+    width: 100%;
+    height: 70%;
+    margin-bottom: 100px;
+}
+
+.confira{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 50px;
+}
+
+.pacotes{
+    display: flex;
+    flex-direction: row;
+    justify-content:center;
+    margin-bottom: 200px;
+}
+
+.londres{
+    width: 342px;
+height: 513px;
+margin-right: 100px
+
+}
+
+.rio{
+    width: 342px;
+height: 513px;
+margin-right: 100px
+}
+
+.japao{
+    width: 342px;
+height: 513px;
+margin-right: 100px
 }
